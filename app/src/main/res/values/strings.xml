@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Internship Exercises</string>
     <string name="label_clicks">Number of clicks</string>
+    <string name="restaurant_item_description">Subtitle</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="button">Button</string>
 </resources>
