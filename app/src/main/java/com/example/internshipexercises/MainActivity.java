@@ -52,14 +52,6 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(mytoolbar);
     }
 
-    private void getImageUsingThread() {
-
-    }
-
-    private void getImageUsingExecutor() {
-
-    }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
