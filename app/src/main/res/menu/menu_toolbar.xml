@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item
+    android:id="@+id/action_favourite"
+    android:icon="@drawable/ic_baseline_insert_emoticon_24"
+    android:title="@string/app_name"
+
+    app:showAsAction="ifRoom"
+    />
+
+    <item
+        android:title="Settings"
+        android:id="@+id/action_settings"
+        app:showAsAction="never"
+        />
+</menu>
